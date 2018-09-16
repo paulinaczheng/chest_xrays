@@ -1,3 +1,5 @@
 *.csv
 input/
 *.npz
+logs/
+*.h5
