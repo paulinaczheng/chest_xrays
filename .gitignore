@@ -2,3 +2,5 @@
 images/
 *.npz
 input/
+logs/
+vgg16_1.h5
