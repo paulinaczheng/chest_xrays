@@ -1,2 +1,5 @@
 *.csv
-images/
+input/
+*.npz
+logs/
+*.h5
