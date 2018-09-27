@@ -15,6 +15,7 @@ Due to computer limitations and the size of the images (1024x1024), a random sam
 
 ## Data Exploration
 
+
 ## Data Processing
 To facilitate processing, the following was done:
 
@@ -48,6 +49,16 @@ To address class imbalance, the following strategies were utilized:
 * Balanced class weights
 * Random oversampling
 * Data augmentation 
+
+## Hyperparameter Tuning
+The following hyperparameters were adjusted to create the best-fitting model:
+* Epochs
+* Optimizers 
+* Regularizers 
+* Activation functions 
+* Batch size
+
+Network architecture (number of neurons, number of layers) was also adjusted.
 
 ## Multi-Layer Perceptrons (Feed-Forward Neural Network)
 
